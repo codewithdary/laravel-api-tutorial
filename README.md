@@ -5,10 +5,6 @@ The following documentation is based on my  Laravel 8 API [Tutorial for Beginner
 •	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
 •	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
 
-## Requirements
-•	Laravel Collections <br>
-•	Basics of PHP <br>
-•	Basics of Laravel <br>
 
 ## Topics
 •	Introduction to API’s <br>
