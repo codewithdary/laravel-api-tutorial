@@ -18,7 +18,7 @@ The following documentation is based on my  Laravel 8 API [Tutorial for Beginner
 ## Usage <br>
 Setup the repository <br>
 ```
-git clone git@github.com:codewithdary/laravel-collections.git
+git clone git@github.com:codewithdary/laravel-api-tutorial.git
 cd bookstore
 composer install
 cp .env.example .env 
