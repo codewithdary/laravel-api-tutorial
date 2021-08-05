@@ -6,9 +6,9 @@ The following documentation is based on my  Laravel 8 API [Tutorial for Beginner
 •	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
 
 ## Requirements
-•	Laravel Collections
-•	Basics of PHP
-•	Basics of Laravel
+•	Laravel Collections <br>
+•	Basics of PHP <br>
+•	Basics of Laravel <br>
 
 ## Topics
 •	Introduction to API’s
@@ -54,4 +54,3 @@ Migrate the tables
 ```
 php artisan migrate
 ```	
-![image](https://user-images.githubusercontent.com/63154066/128334784-c9a8af0d-54c8-4b7d-bdf2-97e0cdc226c3.png)
