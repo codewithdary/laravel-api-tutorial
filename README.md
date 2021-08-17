@@ -1,6 +1,6 @@
 ## Laravel API Tutorial
 
-The following documentation is based on my  Laravel 8 API [Tutorial for Beginners]( https://www.youtube.com/watch?v=xvqPEEpRBJ4) where I’ll show you how to work with API’s in Laravel. <br>
+The following documentation is based on my  [Laravel 8 API Tutorial for Beginners]( https://www.youtube.com/watch?v=xvqPEEpRBJ4) where I’ll show you how to work with API’s in Laravel. <br>
 •	Author: Code With Dary <br>
 •	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
 •	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
