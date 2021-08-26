@@ -56,7 +56,7 @@ I struggled a lot in the beginning when I started working with API’s and that 
 
 Imagine a restaurant where visitors (obviously) sit at a table and eat their food. The food is prepared by chefs in the kitchen. You can see the menu as an API, because visitors pick their food, and the kitchen will cook that. 
 
-The API makes it possible for a frontend developer to request a specific task or resource from the backend. When you want to order your food, you choose between different endpoints. When you order, you connect the backend of an application which will then send back some data.
+The API part makes it possible for a frontend developer to request a specific task or resource from the backend. When you want to order your food, you choose between different endpoints. When you order, you connect the backend of an application which will then send back some data.
 
 ## What is REST?
 When working with API’s, you’ll be hearing the term ```REST``` a lot. Rest stands for: <br>
